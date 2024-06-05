@@ -1,1 +1,3 @@
-# project-1
+# Justine Evans' project-1
+
+This is my project 1 repository for class.
